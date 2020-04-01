@@ -6,3 +6,5 @@
 4. Encontrar huevo en el walmart
 5. Comprar alcohol
 6. NO salir de casita
+7. Encontrar papel de baño
+8. Hacer ingestas de prueba
